@@ -1,0 +1,20 @@
+.Box {
+  border-radius: 8px;
+  font-style: oblique;
+}
+
+h3 {
+  color: rgba(132, 142, 143, 0.925);
+  font-size: xx-large;
+  font-weight: bold;
+  align-items: center;
+  font-family: monospace;
+}
+
+.Quote {
+  color: rgb(92, 97, 97);
+}
+
+.Price {
+  color: rgb(59, 68, 65);
+}

@@ -1,0 +1,13 @@
+button {
+  font-style: oblique;
+}
+.Confirm {
+  position: absolute;
+  right: 25%;
+  bottom: 10px;
+}
+.Cancle {
+  position: absolute;
+  left: 25%;
+  bottom: 10px;
+}
